@@ -1,1 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body style="background-color:#EEE8AA">
+<div "position:absolute; right:750; top:150;width:500;height:400; >
+<img src="girl.jpg" alt="girl" width="300" height="450">
+</div>
+<div >
+<h1 style=" align:center"> Kitabi Duniya</h1>
+<h2 > The more you read, the more you live!</h2>
+<h3> Happy Reading!</h3>
+<img src="Books.jpg" alt="Books" width="300" height="450" color="#EEE8AA" align="left" >
+<br></br>
+</div>
+<div style=" Position:absolute;right:70">
 
+
+<form style=" Position:absolute;left:70" action="/action_page.php" method="get">
+<label style=" align:left;font-weight:bold"> Login or Sign Up </label>
+<br></br>
+  <label font="50px";for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label  for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit"><br>
+  </form>
+  </div>
+
+<br>
+</br>
+
+  <h2 align="center">Every thing that you want you will get here in one go.</h2>
+ 
+  <p align="center">You can write us at kitabibateein@gmail.com.</p>
+  
+
+<style>
+ 
+  h1 {
+  font-size:70px;
+  font-weight:bold;
+  text-align:center;
+  color:Black;
+  padding-top:1px;
+  line-height: 1%	
+  }
+  
+  h2 {
+  text-align:center;
+  color:#808000;
+line-height: 1%
+  }
+  
+  h3{
+  font-size:40px;
+  font-weight:bold;text-align:center;
+  color:#008080;
+ 
+  }
+  h4{
+  font-size:20px;
+  font-weight:bold;text-align:center;
+  color:black;
+ 
+  }
+ </style> 
+	
+</head>
+</body>
+</html>
